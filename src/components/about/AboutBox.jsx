@@ -5,12 +5,12 @@ function AboutBox() {
 		<div className="about_boxes grid">
 			<AboutCard
 				icon="fa-solid fa-fire-flame-curved about_icon"
-				title="10"
+				title="10+"
 				description="Project Completed"
 			/>
 			<AboutCard
 				icon="fa-solid fa-user-group about_icon"
-				title="100+"
+				title="200+"
 				description="Connections"
 			/>
 			<AboutCard

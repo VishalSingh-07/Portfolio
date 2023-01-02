@@ -2,7 +2,7 @@ import React from "react"
 import "./about.css"
 import Aboutlogo from "../../assets/common_image/avatar-2.svg"
 import AboutBox from "./AboutBox"
-import Resume from "../../assets/Resume/Vishal Singh Resume.pdf"
+import Resume from "../../assets/Resume/Vishal_Singh's _Resume.pdf"
 function About() {
 	return (
 		<section className="container-about section-about about-section" id="about">

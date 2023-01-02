@@ -11,7 +11,7 @@ const Menu = [
 		image: Work1,
 		title: "Netflix Clone",
 		category: "Netflix Clone",
-		technology:"Clone",
+		technology: "Clone",
 		live: "https://netflix-clone-74f56.web.app/",
 		github: "https://github.com/VishalSingh-07/Netflix-Clone",
 	},
@@ -30,7 +30,7 @@ const Menu = [
 		title: "Blog Website",
 		category: "Blog Website",
 		technology: "Node",
-		live: "https://arcane-retreat-30403.herokuapp.com/",
+		live: "https://busy-plum-trout.cyclic.app/",
 		github: "https://github.com/VishalSingh-07/Blog-Website",
 	},
 	{
@@ -39,7 +39,7 @@ const Menu = [
 		title: "ToDo List",
 		category: "ToDo List Website",
 		technology: "Node",
-		live: "https://whispering-escarpment-84352.herokuapp.com/",
+		live: "https://sangria-adder-kilt.cyclic.app/",
 		github: "https://github.com/VishalSingh-07/ToDo-List-App",
 	},
 
@@ -49,7 +49,7 @@ const Menu = [
 		title: "Weather App",
 		category: "Weather App",
 		technology: "Node",
-		live: "https://salty-mountain-15049.herokuapp.com/",
+		live: "https://weather-app-.up.railway.app/",
 		github: "https://github.com/VishalSingh-07/Weather-App",
 	},
 
